@@ -4,9 +4,10 @@
 ---
 
 ## 📌 Overview
-This project analyzes user behavior and subscription lifecycle data for a streaming platform to identify key drivers of engagement, retention, conversion, and churn.
+This project performs end-to-end product analytics on a subscription-based streaming platform to uncover how user behavior drives conversion, retention, and churn.
 
-The analysis focuses on understanding how user activity influences monetization and churn patterns, and provides actionable insights for improving user retention and business performance.
+The analysis goes beyond descriptive metrics to identify behavioral patterns, quantify engagement impact, and generate actionable business insights for improving monetization and reducing churn.
+
 
 ---
 
@@ -44,6 +45,14 @@ The dataset consists of simulated streaming platform(Netflix)  data:
   - app_open, search, play_content, add_to_watchlist, onboarding  
 
 ---
+## 📊 Key Metrics Snapshot
+
+- Conversion Rate: ~31.6%  
+- Active but Non-Subscribed Users: ~68%  
+- Engagement Drop Before Churn: ~60%  
+- Post-Churn Active Users: ~5%
+
+---
 
 ## 📊 Key Insights
 
@@ -75,6 +84,14 @@ Only **~5% of churned users remain active**, indicating that post-churn recovery
 ### 6. Platform Has No Significant Impact
 No meaningful difference in engagement or conversion across Android, iOS, and Web platforms.
 
+---
+## 🧠 Analytical Approach
+
+- Defined engagement using behavioral events (play_content, search, etc.)
+- Segmented users based on activity and subscription status
+- Built session-level and user-level aggregations
+- Analyzed pre-churn behavior using time-window analysis
+- Compared behavioral patterns across user segments
 ---
 
 ## 💡 Business Recommendations
