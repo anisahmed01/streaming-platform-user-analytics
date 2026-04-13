@@ -107,13 +107,14 @@ No meaningful difference in engagement or conversion across Android, iOS, and We
 ```
 ---
 
-
----
-
 ## 🚀 Key Takeaway
 User engagement is the central driver of retention, conversion, and churn. A significant decline in engagement precedes churn, emphasizing the importance of early intervention rather than post-churn recovery.
 
 ---
+### 📊 Visuals
+![Dashboard 1](dashboard_images/Screenshot 2026-04-13%171218.png)
+![Dashboard 2](dashboard_images/Screenshot 2026-04-13%155552.png)
+![Dashboard 3](dashboard_images/Screenshot 2026-04-13%164447.png)
 
 ## 👤 Author
 **Anis Ahmed**  
