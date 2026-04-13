@@ -1,6 +1,7 @@
 # 📊 Streaming Platform Analytics: Engagement, Retention, Conversion & Churn
 Python | Pandas | Seaborn
 ---
+
 ## 📌 Overview
 This project analyzes user behavior and subscription lifecycle data for a streaming platform to identify key drivers of engagement, retention, conversion, and churn.
 
