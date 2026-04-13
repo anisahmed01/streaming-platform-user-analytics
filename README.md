@@ -1,5 +1,5 @@
 # 📊 Streaming Platform Analytics: Engagement, Retention, Conversion & Churn
-Python | Pandas | Seaborn
+**Python | Pandas | Seaborn**
 
 ---
 
